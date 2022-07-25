@@ -589,5 +589,111 @@
     "dark": 1,
     "airline": "ayu",
     "commandBeforeColo": "let g:ayucolor=\"dark\""
+  },
+  {
+    "name": "base16-dracula",
+    "light": 1,
+    "dark": 1,
+    "airline": "",
+    "commandBeforeColo": ""
+  },
+  {
+    "name": "base16-circus",
+    "light": 1,
+    "dark": 1,
+    "airline": "",
+    "commandBeforeColo": ""
+  },
+  {
+    "name": "base16-atalier-dune",
+    "light": 1,
+    "dark": 1,
+    "airline": "",
+    "commandBeforeColo": ""
+  },
+  {
+    "name": "base16-classic-dark",
+    "light": 1,
+    "dark": 1,
+    "airline": "",
+    "commandBeforeColo": ""
+  },
+  {
+    "name": "base16-harmonic-dark",
+    "light": 1,
+    "dark": 1,
+    "airline": "",
+    "commandBeforeColo": ""
+  },
+
+  {
+    "name": "base16-oceanicnext",
+    "light": 1,
+    "dark": 1,
+    "airline": "",
+    "commandBeforeColo": ""
+  },
+  {
+    "name": "base16-irblack",
+    "light": 1,
+    "dark": 1,
+    "airline": "",
+    "commandBeforeColo": ""
+  },
+  {
+    "name": "base16-seti",
+    "light": 1,
+    "dark": 1,
+    "airline": "",
+    "commandBeforeColo": ""
+  },
+  {
+    "name": "base16-darktooth",
+    "light": 1,
+    "dark": 1,
+    "airline": "",
+    "commandBeforeColo": ""
+  },
+  {
+    "name": "base16-eighties",
+    "light": 1,
+    "dark": 1,
+    "airline": "",
+    "commandBeforeColo": ""
+  },
+  {
+    "name": "base16-helios",
+    "light": 1,
+    "dark": 1,
+    "airline": "",
+    "commandBeforeColo": ""
+  },
+  {
+    "name": "base16-ia-dark",
+    "light": 1,
+    "dark": 1,
+    "airline": "",
+    "commandBeforeColo": ""
+  },
+  {
+    "name": "base16-materia",
+    "light": 1,
+    "dark": 1,
+    "airline": "",
+    "commandBeforeColo": ""
+  },
+  {
+    "name": "base16-material-vivid",
+    "light": 1,
+    "dark": 1,
+    "airline": "",
+    "commandBeforeColo": ""
+  },
+  {
+    "name": "base16-solarflare",
+    "light": 1,
+    "dark": 1,
+    "airline": "",
+    "commandBeforeColo": ""
   }
 ]
